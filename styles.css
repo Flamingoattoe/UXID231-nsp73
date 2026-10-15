@@ -1,0 +1,17 @@
+body {
+    /* Body Selector */
+    background-color: #ffffff;
+}
+
+main {
+    /* Main Selector */
+    padding: 20px;
+}
+nav a:hover{
+    color: #ff0000;
+}
+h1 {
+    /* Heading 1 Selector */
+    color: #000000;
+    font-family: Arial, sans-serif;
+}
