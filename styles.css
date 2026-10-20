@@ -15,3 +15,8 @@ h1 {
     color: #000000;
     font-family: Arial, sans-serif;
 }
+button:focus-visible,
+a:focus-visible {
+    outline: 3px solid blue;
+    outline-offset: 3px;
+}
