@@ -2,10 +2,11 @@ body {
     background-color: #ffffff;
 }
 nav a:active{
-    font-weight: 700;
+    font-weight: bold;
 }
 nav a:hover{
     color: #ff0000;
+    background-color:#0f73cb34;
 }
 h1 {
     color: #000000;
