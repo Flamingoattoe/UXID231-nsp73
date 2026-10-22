@@ -1,22 +1,21 @@
 body {
-    /* Body Selector */
     background-color: #ffffff;
 }
-
-main {
-    /* Main Selector */
-    padding: 20px;
+nav a:active{
+    font-weight: 700;
 }
 nav a:hover{
     color: #ff0000;
 }
 h1 {
-    /* Heading 1 Selector */
     color: #000000;
     font-family: Arial, sans-serif;
 }
 button:focus-visible,
 a:focus-visible {
-    outline: 3px solid blue;
+    outline: 3px solid #0000ff;
     outline-offset: 3px;
+}
+.current-page {
+    font-weight: bold;
 }

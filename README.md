@@ -13,3 +13,4 @@ My topic will be on my Drexel University portfolio which will be used for COOP a
 The AI use and policy is that it is acceptable to use but must be declared and stated within the README.md section and only between check-ins.
 
 10/7/2026: ChatGPT: Prompt: "How to add link to an email within Javascript"
+10/22/2026: ChatGPT: Promt: "What tool do I use in order to have the link corresponding to the current page bold"
