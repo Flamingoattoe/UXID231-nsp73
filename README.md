@@ -14,3 +14,4 @@ The AI use and policy is that it is acceptable to use but must be declared and s
 
 10/7/2026: ChatGPT: Prompt: "How to add link to an email within Javascript"
 10/22/2026: ChatGPT: Promt: "What tool do I use in order to have the link corresponding to the current page bold"
+11/4/2026: ChatGPT: Promt: "How to prevent text from wrapping in a navigation bar"
